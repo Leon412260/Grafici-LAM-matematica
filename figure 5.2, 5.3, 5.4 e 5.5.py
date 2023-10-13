@@ -32,7 +32,6 @@ def single_test(n,a):
             return True
         exp <<= 1
     return False
-# con k=40 è più probabile un bit flip casuale piuttosto che il risultato sia sbagliato
 def probabilistic_prime_test(n, k=20):
     for i in range(k):
         a = dice.randrange(2,n-1)

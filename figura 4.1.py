@@ -31,13 +31,13 @@ Y.pop(0)
 R = str(round(Y[-1]-ln[-1], 6))
 
 ox,oy=[],[]
-"""
+
 ax=plt.subplot(111)
 ax.spines["top"].set_visible(False)
 ax.spines["bottom"].set_visible(False)
 ax.spines["left"].set_visible(False)
 ax.spines["right"].set_visible(False)
-"""
+
 mpl.style.use("fast")
 plt.ticklabel_format(useMathText=True)
 mpl.rcParams["path.simplify"]=False

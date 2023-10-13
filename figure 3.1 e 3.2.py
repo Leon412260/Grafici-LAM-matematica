@@ -19,7 +19,7 @@ gamma = str(round(H_n[-1]-ln[-1], 7))
 ox,oy=[],[]
 
 fig,ax = plt.subplots()
-"""
+
 mpl.style.use("fast")
 mpl.rcParams["path.simplify"]=True
 mpl.rcParams["path.simplify_threshold"]=0
@@ -27,7 +27,7 @@ plt.ticklabel_format(useMathText=True)
 ax.plot(ox, oy, label="γ="+gamma, color="white")
 ax.plot(X, ln, markevery=1, label="ln(x)")
 ax.plot(X, H_n, markevery=1, label=r"$H_n$
-"""
+
 plt.subplot(211)
 plt.scatter(X[1:30], H_n[1:30], label=r"$H_n$", s=25)
 plt.legend(fontsize=15,frameon=False)
