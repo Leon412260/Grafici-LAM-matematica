@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3a04bac-b821-4224-ac4c-b7fb2d1b2c70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1_fratto_x.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/costante_eulero_mascheroni.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grafici_xMertens3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mertens_2_Xmertens3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fratto_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/figure 3.3 e 3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/costante_eulero_mascheroni.py" beforeDir="false" afterPath="$PROJECT_DIR$/figure 3.1 e 3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_teorema_mertens.py" beforeDir="false" afterPath="$PROJECT_DIR$/figura 4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitrling_formula.py" beforeDir="false" afterPath="$PROJECT_DIR$/figura 4.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WhxvxDKPA11ifk67xoeJguhVms" />
   <component name="ProjectViewState">
