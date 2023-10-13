@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3a04bac-b821-4224-ac4c-b7fb2d1b2c70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_fratto_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/figure 3.3 e 3.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/costante_eulero_mascheroni.py" beforeDir="false" afterPath="$PROJECT_DIR$/figure 3.1 e 3.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_teorema_mertens.py" beforeDir="false" afterPath="$PROJECT_DIR$/figura 4.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitrling_formula.py" beforeDir="false" afterPath="$PROJECT_DIR$/figura 4.2.py" afterDir="false" />
-    </list>
+    <list default="true" id="e3a04bac-b821-4224-ac4c-b7fb2d1b2c70" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +30,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leona\PycharmProjects\test1\math_things" />
       <recent name="C:\Users\leona\OneDrive\Documenti\GitHub\Grafici-LAM-matematica" />
     </key>
   </component>
@@ -48,6 +43,18 @@
       <option name="presentableId" value="Default" />
       <updated>1697198846581</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1697200207360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697200207360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
